@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "Opdracht_dotnet_frameworks": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development",
+        "ServiceA:LogLevel": "Trace",
+        "ServiceB:LogLevel": "Debug",
+        "ServiceC:LogLevel": "Debug"
+      },
+      "dotnetRunMessages": true
+    }
+  }
+}
